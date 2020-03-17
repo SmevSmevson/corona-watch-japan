@@ -1,0 +1,8625 @@
+{
+	"cases": [
+		{
+			"case_number": 1,
+			"age": "30",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/1/15",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 2,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "China",
+			"date": "2020/1/24",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 3,
+			"age": "30",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "China",
+			"date": "2020/1/25",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 4,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "China",
+			"date": "2020/1/26",
+			"status": "alive",
+			"contact": [
+				"No.19"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 5,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "China",
+			"date": "2020/1/28",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 6,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Nara",
+			"date": "2020/1/28",
+			"status": "alive",
+			"contact": [
+				"8",
+				"13"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 7,
+			"age": "40",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "China",
+			"date": "2020/1/28",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 8,
+			"age": "40",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Osaka",
+			"date": "2020/1/29",
+			"status": "alive",
+			"contact": [
+				"6"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 9,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "China",
+			"date": "2020/1/30",
+			"status": "alive",
+			"contact": [
+				"2 charter pathogen carriers"
+			],
+			"charter": true,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 10,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Mie",
+			"date": "2020/1/30",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 11,
+			"age": "30",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "China",
+			"date": "2020/1/30",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 12,
+			"age": "20",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Kyoto",
+			"date": "2020/1/30",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 13,
+			"age": "20",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Chiba",
+			"date": "2020/1/31",
+			"status": "alive",
+			"contact": [
+				"6"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 14,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "investigating",
+			"date": "2020/2/1",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": true,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 15,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "China",
+			"date": "2020/2/1",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": true,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 16,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "China",
+			"date": "2020/2/1",
+			"status": "alive",
+			"contact": [
+				"unknown"
+			],
+			"charter": true,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 17,
+			"age": "30",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "China",
+			"date": "2020/2/4",
+			"status": "alive",
+			"contact": [
+				"20"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 18,
+			"age": "50",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Chiba",
+			"date": "2020/2/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": true,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 19,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "China",
+			"date": "2020/2/4",
+			"status": "alive",
+			"contact": [
+				"4"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 20,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "China",
+			"date": "2020/2/5",
+			"status": "alive",
+			"contact": [
+				"17"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 21,
+			"age": "20",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kyoto",
+			"date": "2020/2/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 22,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "China",
+			"date": "2020/2/5",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": true,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 23,
+			"age": "20",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "China",
+			"date": "2020/2/8",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": true,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 24,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Saitama",
+			"date": "2020/2/10",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": true,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 25,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "China",
+			"date": "2020/2/10",
+			"status": "alive",
+			"contact": [
+				"unknown"
+			],
+			"charter": true,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 26,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 27,
+			"age": "80",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/13",
+			"status": "deceased",
+			"contact": [
+				"28",
+				"48"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 28,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/13",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 29,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Wakayama",
+			"date": "2020/2/13",
+			"status": "alive",
+			"contact": [
+				"31"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 30,
+			"age": "20",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Chiba",
+			"date": "2020/2/13",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 31,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Wakayama",
+			"date": "2020/2/14",
+			"status": "deceased",
+			"contact": [
+				"29",
+				"54"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 32,
+			"age": "60",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Okinawa",
+			"date": "2020/2/14",
+			"status": "alive",
+			"contact": [
+				"unknown"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 33,
+			"age": "50",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/14",
+			"status": "alive",
+			"contact": [
+				"28"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 34,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/14",
+			"status": "alive",
+			"contact": [
+				"28"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 35,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/14",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 36,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/14",
+			"status": "alive",
+			"contact": [
+				"unknown"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 37,
+			"age": "30",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/14",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 38,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Wakayama",
+			"date": "2020/2/14",
+			"status": "alive",
+			"contact": [
+				"20"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 39,
+			"age": "50",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Wakayama",
+			"date": "2020/2/14",
+			"status": "alive",
+			"contact": [
+				"29"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 40,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Wakayama",
+			"date": "2020/2/15",
+			"status": "alive",
+			"contact": [
+				"29",
+				"50",
+				"51"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 41,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/15",
+			"status": "alive",
+			"contact": [
+				"45"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 42,
+			"age": "60",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/15",
+			"status": "alive",
+			"contact": [
+				"28"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 43,
+			"age": "60",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/15",
+			"status": "alive",
+			"contact": [
+				"35",
+				"44",
+				"69",
+				"77"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 44,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/16",
+			"status": "alive",
+			"contact": [
+				"43",
+				"53",
+				"59"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 45,
+			"age": "30",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/16",
+			"status": "alive",
+			"contact": [
+				"41"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 46,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "investigating",
+			"date": "2020/2/16",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 47,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "investigating",
+			"date": "2020/2/16",
+			"status": "alive",
+			"contact": [
+				"28"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 48,
+			"age": "40",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/17",
+			"status": "alive",
+			"contact": [
+				"27"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 49,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/17",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 50,
+			"age": "80",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Wakayama",
+			"date": "2020/2/17",
+			"status": "alive",
+			"contact": [
+				"40"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 51,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Wakayama",
+			"date": "2020/2/17",
+			"status": "alive",
+			"contact": [
+				"40"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 52,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Wakayama",
+			"date": "2020/2/17",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 53,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/17",
+			"status": "alive",
+			"contact": [
+				"44",
+				"59"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 54,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Wakayama",
+			"date": "2020/2/18",
+			"status": "alive",
+			"contact": [
+				"22"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 55,
+			"age": "30",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Wakayama",
+			"date": "2020/2/18",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 56,
+			"age": "80",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/18",
+			"status": "deceased",
+			"contact": [
+				"None"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 57,
+			"age": "20",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/18",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 58,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/18",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 59,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/18",
+			"status": "alive",
+			"contact": [
+				"44",
+				"53"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 60,
+			"age": "80",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/18",
+			"status": "alive",
+			"contact": [
+				"27",
+				"61",
+				"78"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 61,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/18",
+			"status": "alive",
+			"contact": [
+				"60",
+				"78"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 62,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/19",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 63,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/19",
+			"status": "alive",
+			"contact": [
+				"72"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 64,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/19",
+			"status": "alive",
+			"contact": [
+				"101"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 65,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Okinawa",
+			"date": "2020/2/19",
+			"status": "alive",
+			"contact": [
+				"unknown"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 66,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/19",
+			"status": "alive",
+			"contact": [
+				"67"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 67,
+			"age": "70",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/19",
+			"status": "alive",
+			"contact": [
+				"66"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 68,
+			"age": "70",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/19",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 69,
+			"age": "50",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/19",
+			"status": "alive",
+			"contact": [
+				"43",
+				"77"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 70,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "China",
+			"date": "2020/2/19",
+			"status": "alive",
+			"contact": [
+				"unknown"
+			],
+			"charter": true,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 71,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Fukuoka",
+			"date": "2020/2/20",
+			"status": "alive",
+			"contact": [
+				"79"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 72,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/20",
+			"status": "alive",
+			"contact": [
+				"63"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 73,
+			"age": "70",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Chiba",
+			"date": "2020/2/20",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 74,
+			"age": "80",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Okinawa",
+			"date": "2020/2/20",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 75,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/20",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 76,
+			"age": "30",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Saitama",
+			"date": "2020/2/20",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 77,
+			"age": "80",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/20",
+			"status": "alive",
+			"contact": [
+				"43",
+				"69",
+				"167"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 78,
+			"age": "80",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/20",
+			"status": "alive",
+			"contact": [
+				"60",
+				"61"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 79,
+			"age": "60",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Fukuoka",
+			"date": "2020/2/20",
+			"status": "alive",
+			"contact": [
+				"71"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 80,
+			"age": "Under 10",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/21",
+			"status": "alive",
+			"contact": [
+				"81"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 81,
+			"age": "10",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/21",
+			"status": "alive",
+			"contact": [
+				"80"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 82,
+			"age": "40",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/21",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 83,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Ishikawa",
+			"date": "2020/2/21",
+			"status": "alive",
+			"contact": [
+				"unknown"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 84,
+			"age": "Under 10",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Saitama",
+			"date": "2020/2/21",
+			"status": "alive",
+			"contact": [
+				"No.8"
+			],
+			"charter": true,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 85,
+			"age": "50",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/21",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 86,
+			"age": "70",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/21",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 87,
+			"age": "50",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/21",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 88,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Chiba",
+			"date": "2020/2/21",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 89,
+			"age": "80",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/21",
+			"date_of_death": "2020/3/9",
+			"status": "deceased",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 90,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/21",
+			"status": "alive",
+			"contact": [
+				"43"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 91,
+			"age": "20",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/21",
+			"status": "alive",
+			"contact": [
+				"69"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 92,
+			"age": "20",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Kumamoto",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"93",
+				"142"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 93,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kumamoto",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"92",
+				"141",
+				"142"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 94,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kumamoto",
+			"date": "2020/2/21",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 95,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Wakayama",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"40"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 96,
+			"age": "60",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Chiba",
+			"date": "2020/2/21",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 97,
+			"age": "50",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Chiba",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 98,
+			"age": "70",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 99,
+			"age": "80",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/22",
+			"status": "deceased",
+			"contact": [
+				"177",
+				"188"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 100,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 101,
+			"age": "50",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"64"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 102,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 103,
+			"age": "50",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 104,
+			"age": "10",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 105,
+			"age": "50",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 106,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 107,
+			"age": "60",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"43"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 108,
+			"age": "40",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"43"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 109,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"69"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 110,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"69"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 111,
+			"age": "60",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Tochigi",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"Onset",
+				"after",
+				"cruise",
+				"ship",
+				"disembarkation"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 112,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"137",
+				"138",
+				"139",
+				"158"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 113,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"177"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 114,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 115,
+			"age": "70",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/23",
+			"status": "alive",
+			"contact": [
+				"43"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 116,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/23",
+			"status": "alive",
+			"contact": [
+				"43"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 117,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Chiba",
+			"date": "2020/2/23",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 118,
+			"age": "30",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/23",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 119,
+			"age": "60",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/23",
+			"status": "alive",
+			"contact": [
+				"100"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 120,
+			"age": "20",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/23",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 121,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/23",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 122,
+			"age": "30",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/23",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 123,
+			"age": "80",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/23",
+			"status": "alive",
+			"contact": [
+				"98"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 124,
+			"age": "40",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/23",
+			"status": "alive",
+			"contact": [
+				"104"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 125,
+			"age": "20",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/23",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 126,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/24",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 127,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/24",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 128,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Ishikawa",
+			"date": "2020/2/24",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 129,
+			"age": "70",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/24",
+			"status": "alive",
+			"contact": [
+				"114"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 130,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/24",
+			"status": "alive",
+			"contact": [
+				"174",
+				"175",
+				"177"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 131,
+			"age": "20",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/24",
+			"status": "alive",
+			"contact": [
+				"113"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 132,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/24",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 133,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/24",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 134,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/24",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 135,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/24",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 136,
+			"age": "30",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/24",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 137,
+			"age": "50",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"112"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 138,
+			"age": "20",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"112"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 139,
+			"age": "20",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/22",
+			"status": "alive",
+			"contact": [
+				"112"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 140,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Nagano",
+			"date": "2020/2/25",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 141,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kumamoto",
+			"date": "2020/2/25",
+			"status": "alive",
+			"contact": [
+				"93"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 142,
+			"age": "60",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Kumamoto",
+			"date": "2020/2/25",
+			"status": "alive",
+			"contact": [
+				"92",
+				"93"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 143,
+			"age": "60",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/25",
+			"status": "alive",
+			"contact": [
+				"unknown"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 144,
+			"age": "50",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Ishikawa",
+			"date": "2020/2/25",
+			"status": "alive",
+			"contact": [
+				"83"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 145,
+			"age": "70",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/25",
+			"status": "alive",
+			"contact": [
+				"43"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 146,
+			"age": "70",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/25",
+			"status": "alive",
+			"contact": [
+				"43"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 147,
+			"age": "40",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/25",
+			"status": "alive",
+			"contact": [
+				"69"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 148,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Chiba",
+			"date": "2020/2/25",
+			"status": "alive",
+			"contact": [
+				"Onset",
+				"after",
+				"cruise",
+				"ship",
+				"disembarkation"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 149,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Chiba",
+			"date": "2020/2/25",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 150,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Chiba",
+			"date": "2020/2/25",
+			"status": "alive",
+			"contact": [
+				"Onset",
+				"after",
+				"cruise",
+				"ship",
+				"disembarkation"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 151,
+			"age": "20",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/25",
+			"status": "alive",
+			"contact": [
+				"177"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 152,
+			"age": "20",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/25",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 153,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/25",
+			"status": "deceased",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 154,
+			"age": "90",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/25",
+			"status": "deceased",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 155,
+			"age": "70",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/26",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 156,
+			"age": "70",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/25",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 157,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Osaka",
+			"date": "2020/2/26",
+			"status": "alive",
+			"contact": [
+				"None"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 158,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/26",
+			"status": "alive",
+			"contact": [
+				"112"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 159,
+			"age": "40",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Osaka",
+			"date": "2020/2/26",
+			"status": "alive",
+			"contact": [
+				"Same",
+				"person",
+				"as",
+				"8"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 160,
+			"age": "80",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/26",
+			"status": "alive",
+			"contact": [
+				"161"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 161,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/26",
+			"status": "alive",
+			"contact": [
+				"160"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 162,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/26",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 163,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/26",
+			"status": "alive",
+			"contact": [
+				"69"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 164,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/26",
+			"status": "alive",
+			"contact": [
+				"69"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 165,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/26",
+			"status": "alive",
+			"contact": [
+				"69"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 166,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/26",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 167,
+			"age": "70",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/26",
+			"status": "alive",
+			"contact": [
+				"77"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 168,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Gifu",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"169"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 169,
+			"age": "50",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Osaka",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"168"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 170,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Shiga",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 171,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 172,
+			"age": "60",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Chiba",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 173,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Osaka",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 174,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"130",
+				"177"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 175,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"130",
+				"177"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 176,
+			"age": "30",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 177,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"99",
+				"113",
+				"130",
+				"151",
+				"174",
+				"175"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 178,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 179,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 180,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 181,
+			"age": "Under 10",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 182,
+			"age": "30",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 183,
+			"age": "Under 10",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 184,
+			"age": "80",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 185,
+			"age": "30",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 186,
+			"age": "80",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 187,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 188,
+			"age": "40",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"99"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 189,
+			"age": "60",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 190,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 191,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/27",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09849.html"
+		},
+		{
+			"case_number": 192,
+			"age": "40",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/28",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 193,
+			"age": "20",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/2/28",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 194,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Shizuoka",
+			"date": "2020/2/28",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 195,
+			"age": "80",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/28",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 196,
+			"age": "Under 10",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/28",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 197,
+			"age": "80",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/28",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 198,
+			"age": "60",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/28",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 199,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/28",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 200,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/28",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 201,
+			"age": "60",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/28",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 202,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/28",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 203,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/28",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 204,
+			"age": "60",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/28",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 205,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/28",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 206,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/28",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 207,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/28",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 208,
+			"age": "40",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Osaka",
+			"date": "2020/2/28",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 209,
+			"age": "30",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Kochi",
+			"date": "2020/2/29",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 210,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Niigata",
+			"date": "2020/2/29",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 211,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Miyagi",
+			"date": "2020/2/29",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 212,
+			"age": "20",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/2/29",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 213,
+			"age": "90",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/29",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 214,
+			"age": "60",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/29",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 215,
+			"age": "30",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/29",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 216,
+			"age": "20",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/2/29",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 217,
+			"age": "70",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/2/29",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09857.html"
+		},
+		{
+			"case_number": 218,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Fukuoka",
+			"date": "2020/3/1",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09889.html"
+		},
+		{
+			"case_number": 219,
+			"age": "70",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/3/1",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09889.html"
+		},
+		{
+			"case_number": 220,
+			"age": "50",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/3/1",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09889.html"
+		},
+		{
+			"case_number": 221,
+			"age": "20",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Chiba",
+			"date": "2020/3/1",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09889.html"
+		},
+		{
+			"case_number": 222,
+			"age": "20",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/3/1",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09889.html"
+		},
+		{
+			"case_number": 223,
+			"age": "40",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/3/1",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09889.html"
+		},
+		{
+			"case_number": 224,
+			"age": "50",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/3/1",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09889.html"
+		},
+		{
+			"case_number": 225,
+			"age": "70",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Tokyo",
+			"date": "2020/3/1",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09889.html"
+		},
+		{
+			"case_number": 226,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/3/1",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09889.html"
+		},
+		{
+			"case_number": 227,
+			"age": "50",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Kanagawa",
+			"date": "2020/3/1",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09889.html"
+		},
+		{
+			"case_number": 228,
+			"age": "Undisclosed",
+			"gender": "Undisclosed",
+			"location": "please enter",
+			"residence": "Kochi",
+			"date": "2020/3/1",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09889.html"
+		},
+		{
+			"case_number": 229,
+			"age": "Undisclosed",
+			"gender": "Undisclosed",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/3/1",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09889.html"
+		},
+		{
+			"case_number": 230,
+			"age": "Undisclosed",
+			"gender": "Undisclosed",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/3/1",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09889.html"
+		},
+		{
+			"case_number": 231,
+			"age": "Undisclosed",
+			"gender": "Undisclosed",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/3/1",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09889.html"
+		},
+		{
+			"case_number": 232,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hyogo",
+			"date": "2020/3/1",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09889.html"
+		},
+		{
+			"case_number": 233,
+			"age": "30",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Kochi",
+			"date": "2020/3/2",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09900.html"
+		},
+		{
+			"case_number": 234,
+			"age": "40",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Niigata",
+			"date": "2020/3/2",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09900.html"
+		},
+		{
+			"case_number": 235,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/3/2",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09900.html"
+		},
+		{
+			"case_number": 236,
+			"age": "60",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/3/2",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09900.html"
+		},
+		{
+			"case_number": 237,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Hokkaido",
+			"date": "2020/3/2",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09900.html"
+		},
+		{
+			"case_number": 238,
+			"age": "40",
+			"gender": "Female",
+			"location": "Asahikawa City",
+			"residence": "Hokkaido",
+			"date": "2020/3/2",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09900.html"
+		},
+		{
+			"case_number": 239,
+			"age": "50",
+			"gender": "Male",
+			"location": "Sapporo City",
+			"residence": "Hokkaido",
+			"date": "2020/3/2",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09900.html"
+		},
+		{
+			"case_number": 240,
+			"age": "50",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Osaka",
+			"date": "2020/3/2",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09900.html"
+		},
+		{
+			"case_number": 241,
+			"age": "40",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Osaka",
+			"date": "2020/3/2",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09900.html"
+		},
+		{
+			"case_number": 242,
+			"age": "30",
+			"gender": "Female",
+			"location": "Oita City",
+			"residence": "Oita",
+			"date": "2020/3/3",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09936.html"
+		},
+		{
+			"case_number": 243,
+			"age": "40",
+			"gender": "Male",
+			"location": "Kobe City",
+			"residence": "Hyogo",
+			"date": "2020/3/3",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09936.html"
+		},
+		{
+			"case_number": 244,
+			"age": "30",
+			"gender": "Female",
+			"location": "Sapporo City",
+			"residence": "Hokkaido",
+			"date": "2020/3/3",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09936.html"
+		},
+		{
+			"case_number": 245,
+			"age": "60",
+			"gender": "Female",
+			"location": "Sapporo City",
+			"residence": "Hokkaido",
+			"date": "2020/3/3",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09936.html"
+		},
+		{
+			"case_number": 246,
+			"age": "60",
+			"gender": "Female",
+			"location": "Niigata City",
+			"residence": "Niigata",
+			"date": "2020/3/3",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09936.html"
+		},
+		{
+			"case_number": 247,
+			"age": "50",
+			"gender": "Female",
+			"location": "Niigata City",
+			"residence": "Niigata",
+			"date": "2020/3/3",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09936.html"
+		},
+		{
+			"case_number": 248,
+			"age": "40",
+			"gender": "Male",
+			"location": "Niigata City",
+			"residence": "Niigata",
+			"date": "2020/3/3",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09936.html"
+		},
+		{
+			"case_number": 249,
+			"age": "50",
+			"gender": "Female",
+			"location": "Kyoto City",
+			"residence": "Kyoto",
+			"date": "2020/3/3",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09936.html"
+		},
+		{
+			"case_number": 250,
+			"age": "50",
+			"gender": "Female",
+			"location": "Tokyo City",
+			"residence": "Tokyo",
+			"date": "2020/3/3",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09936.html"
+		},
+		{
+			"case_number": 251,
+			"age": "50",
+			"gender": "Male",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/3",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09936.html"
+		},
+		{
+			"case_number": 252,
+			"age": "40",
+			"gender": "Female",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/3",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09936.html"
+		},
+		{
+			"case_number": 253,
+			"age": "70",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/3/3",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09936.html"
+		},
+		{
+			"case_number": 254,
+			"age": "80",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/3/3",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09936.html"
+		},
+		{
+			"case_number": 255,
+			"age": "20",
+			"gender": "Female",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/3/3",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09936.html"
+		},
+		{
+			"case_number": 256,
+			"age": "70",
+			"gender": "Male",
+			"location": "please enter",
+			"residence": "Aichi",
+			"date": "2020/3/3",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09936.html"
+		},
+		{
+			"case_number": 257,
+			"age": "40",
+			"gender": "Female",
+			"location": "Kobe City",
+			"residence": "Hyogo",
+			"date": "2020/3/3",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09936.html"
+		},
+		{
+			"case_number": 258,
+			"age": "40",
+			"gender": "Male",
+			"location": "Yamaguchi",
+			"residence": "Yamaguchi",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 259,
+			"age": "40",
+			"gender": "Female",
+			"location": "Kochi City",
+			"residence": "Kochi",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 260,
+			"age": "60",
+			"gender": "Male",
+			"location": "Kochi City",
+			"residence": "Kochi",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 261,
+			"age": "60",
+			"gender": "Female",
+			"location": "Kochi City",
+			"residence": "Kochi",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 262,
+			"age": "10",
+			"gender": "Female",
+			"location": "Kochi",
+			"residence": "Kochi",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 263,
+			"age": "30",
+			"gender": "Female",
+			"location": "Ehime",
+			"residence": "Ehime",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 264,
+			"age": "70",
+			"gender": "Male",
+			"location": "Miyazaki",
+			"residence": "Miyazaki",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 265,
+			"age": "50",
+			"gender": "Male",
+			"location": "Hokkaido",
+			"residence": "Hokkaido",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 266,
+			"age": "60",
+			"gender": "Male",
+			"location": "Asahikawa",
+			"residence": "Hokkaido",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 267,
+			"age": "60",
+			"gender": "Male",
+			"location": "Asahikawa",
+			"residence": "Hokkaido",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 268,
+			"age": "80",
+			"gender": "Female",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 269,
+			"age": "30",
+			"gender": "Female",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 270,
+			"age": "50",
+			"gender": "Male",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 271,
+			"age": "40",
+			"gender": "Female",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 272,
+			"age": "80",
+			"gender": "Female",
+			"location": "Chiba",
+			"residence": "Chiba",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 273,
+			"age": "60",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 274,
+			"age": "50",
+			"gender": "Male",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 275,
+			"age": "70",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 276,
+			"age": "80",
+			"gender": "Male",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 277,
+			"age": "80",
+			"gender": "Male",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 278,
+			"age": "80",
+			"gender": "Male",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 279,
+			"age": "50",
+			"gender": "Female",
+			"location": "Kyoto City",
+			"residence": "Kyoto",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 280,
+			"age": "50",
+			"gender": "Male",
+			"location": "Kyoto City",
+			"residence": "Kyoto",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 281,
+			"age": "30",
+			"gender": "Female",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 282,
+			"age": "30",
+			"gender": "Male",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 283,
+			"age": "60",
+			"gender": "Female",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 284,
+			"age": "50",
+			"gender": "Female",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 285,
+			"age": "50",
+			"gender": "Male",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 286,
+			"age": "30",
+			"gender": "Female",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 287,
+			"age": "70",
+			"gender": "Male",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/4",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_09974.html"
+		},
+		{
+			"case_number": 288,
+			"age": "60",
+			"gender": "Male",
+			"location": "Shiga",
+			"residence": "Shiga",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 289,
+			"age": "30",
+			"gender": "Male",
+			"location": "Kyoto",
+			"residence": "Kyoto",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 290,
+			"age": "60",
+			"gender": "Male",
+			"location": "Hokkaido",
+			"residence": "Hokkaido",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 291,
+			"age": "50",
+			"gender": "Female",
+			"location": "Sagamihara City",
+			"residence": "Kanagawa",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 292,
+			"age": "50",
+			"gender": "Male",
+			"location": "Sagamihara City",
+			"residence": "Kanagawa",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 293,
+			"age": "60",
+			"gender": "Male",
+			"location": "Saitama",
+			"residence": "Saitama",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 294,
+			"age": "50",
+			"gender": "Male",
+			"location": "Saitama",
+			"residence": "Saitama",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 295,
+			"age": "10",
+			"gender": "Female",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 296,
+			"age": "10",
+			"gender": "Female",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 297,
+			"age": "30",
+			"gender": "Female",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 298,
+			"age": "20",
+			"gender": "Female",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 299,
+			"age": "70",
+			"gender": "Female",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 300,
+			"age": "90",
+			"gender": "Male",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 301,
+			"age": "70",
+			"gender": "Male",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 302,
+			"age": "80",
+			"gender": "Male",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 303,
+			"age": "20",
+			"gender": "Female",
+			"location": "Wakayama",
+			"residence": "Wakayama",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 304,
+			"age": "30",
+			"gender": "Male",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 305,
+			"age": "50",
+			"gender": "Male",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 306,
+			"age": "40",
+			"gender": "Female",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 307,
+			"age": "60",
+			"gender": "Male",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 308,
+			"age": "60",
+			"gender": "Female",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 309,
+			"age": "40",
+			"gender": "Female",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 310,
+			"age": "80",
+			"gender": "Female",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 311,
+			"age": "80",
+			"gender": "Male",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 312,
+			"age": "50",
+			"gender": "Female",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 313,
+			"age": "30",
+			"gender": "Female",
+			"location": "Tochigi",
+			"residence": "Tochigi",
+			"date": "2020/3/5",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10001.html"
+		},
+		{
+			"case_number": 314,
+			"age": "80",
+			"gender": "Male",
+			"location": "Sapooro",
+			"residence": "Hokkaido",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 315,
+			"age": "20",
+			"gender": "Female",
+			"location": "Sapooro",
+			"residence": "Hokkaido",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 316,
+			"age": "30",
+			"gender": "Male",
+			"location": "Sapporo",
+			"residence": "Hokkaido",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 317,
+			"age": "70",
+			"gender": "Male",
+			"location": "Hokkaido",
+			"residence": "Hokkaido",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 318,
+			"age": "Undisclosed",
+			"gender": "Female",
+			"location": "Hokkaido",
+			"residence": "Hokkaido",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 319,
+			"age": "60",
+			"gender": "Male",
+			"location": "Hokkaido",
+			"residence": "Hokkaido",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 320,
+			"age": "30",
+			"gender": "Male",
+			"location": "Hokkaido",
+			"residence": "Hokkaido",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 321,
+			"age": "70",
+			"gender": "Male",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 322,
+			"age": "30",
+			"gender": "Female",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 323,
+			"age": "40",
+			"gender": "Male",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 324,
+			"age": "90",
+			"gender": "Male",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 325,
+			"age": "50",
+			"gender": "Female",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 326,
+			"age": "50",
+			"gender": "Male",
+			"location": "Chiba",
+			"residence": "Chiba",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 327,
+			"age": "50",
+			"gender": "Male",
+			"location": "Chiba",
+			"residence": "Chiba",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 328,
+			"age": "60",
+			"gender": "Male",
+			"location": "Kochi",
+			"residence": "Kochi",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 329,
+			"age": "80",
+			"gender": "Male",
+			"location": "Kochi",
+			"residence": "Kochi",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 330,
+			"age": "60",
+			"gender": "Male",
+			"location": "Nara",
+			"residence": "Nara",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 331,
+			"age": "50",
+			"gender": "Female",
+			"location": "Nagano",
+			"residence": "Nagano",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 332,
+			"age": "60",
+			"gender": "Male",
+			"location": "Yamanashi",
+			"residence": "Yamanashi",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 333,
+			"age": "50",
+			"gender": "Female",
+			"location": "Hyogo",
+			"residence": "Hyogo",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 334,
+			"age": "40",
+			"gender": "Male",
+			"location": "Hyogo",
+			"residence": "Hyogo",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 335,
+			"age": "40",
+			"gender": "Female",
+			"location": "Hyogo",
+			"residence": "Hyogo",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 336,
+			"age": "40",
+			"gender": "Male",
+			"location": "Hyogo",
+			"residence": "Hyogo",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 337,
+			"age": "10",
+			"gender": "Female",
+			"location": "Akita",
+			"residence": "Akita",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 338,
+			"age": "60",
+			"gender": "Female",
+			"location": "Saitama",
+			"residence": "Saitama",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 339,
+			"age": "30",
+			"gender": "Female",
+			"location": "Saitama",
+			"residence": "Saitama",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 340,
+			"age": "20",
+			"gender": "Female",
+			"location": "Kanagawa",
+			"residence": "Kanagawa",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 341,
+			"age": "30",
+			"gender": "Male",
+			"location": "Kanagawa",
+			"residence": "Kanagawa",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 342,
+			"age": "30",
+			"gender": "Male",
+			"location": "Kanagawa",
+			"residence": "Kanagawa",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 343,
+			"age": "70",
+			"gender": "Male",
+			"location": "Kanagawa",
+			"residence": "Kanagawa",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 344,
+			"age": "20",
+			"gender": "Male",
+			"location": "Sagamihara",
+			"residence": "Kanagawa",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 345,
+			"age": "60",
+			"gender": "Female",
+			"location": "Kyoto",
+			"residence": "Kyoto",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 346,
+			"age": "80",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 347,
+			"age": "80",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 348,
+			"age": "80",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 349,
+			"age": "60",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 350,
+			"age": "60",
+			"gender": "Male",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 351,
+			"age": "70",
+			"gender": "Male",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 352,
+			"age": "70",
+			"gender": "Male",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 353,
+			"age": "70",
+			"gender": "Male",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 354,
+			"age": "90",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 355,
+			"age": "70",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 356,
+			"age": "60",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 357,
+			"age": "50",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 358,
+			"age": "20",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 359,
+			"age": "30",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 360,
+			"age": "40",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 361,
+			"age": "60",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 362,
+			"age": "70",
+			"gender": "Male",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 363,
+			"age": "60",
+			"gender": "Male",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 364,
+			"age": "50",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 365,
+			"age": "40",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 366,
+			"age": "30",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/6",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10025.html"
+		},
+		{
+			"case_number": 367,
+			"age": "70",
+			"gender": "Female",
+			"location": "Niigata City",
+			"residence": "Niigata",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 368,
+			"age": "60",
+			"gender": "Male",
+			"location": "Yokohama City",
+			"residence": "Kanagawa",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 369,
+			"age": "70",
+			"gender": "Male",
+			"location": "Yokohama City",
+			"residence": "Kanagawa",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 370,
+			"age": "80",
+			"gender": "Male",
+			"location": "Kanagawa",
+			"residence": "Kanagawa",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 371,
+			"age": "30",
+			"gender": "Male",
+			"location": "Hiroshima City",
+			"residence": "Hiroshima",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 372,
+			"age": "40",
+			"gender": "Female",
+			"location": "Hokkaido",
+			"residence": "Hokkaido",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 373,
+			"age": "60",
+			"gender": "Female",
+			"location": "Hokkaido",
+			"residence": "Hokkaido",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 374,
+			"age": "50",
+			"gender": "Female",
+			"location": "Sapooro",
+			"residence": "Hokkaido",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 375,
+			"age": "50",
+			"gender": "Male",
+			"location": "Sapooro",
+			"residence": "Hokkaido",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 376,
+			"age": "70",
+			"gender": "Male",
+			"location": "Sapooro",
+			"residence": "Hokkaido",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 377,
+			"age": "60",
+			"gender": "Female",
+			"location": "Sapporo",
+			"residence": "Hokkaido",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 378,
+			"age": "60",
+			"gender": "Female",
+			"location": "Sapporo",
+			"residence": "Hokkaido",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 379,
+			"age": "60",
+			"gender": "Male",
+			"location": "Sapporo",
+			"residence": "Hokkaido",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 380,
+			"age": "40",
+			"gender": "Female",
+			"location": "Kyoto",
+			"residence": "Kyoto",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 381,
+			"age": "80",
+			"gender": "Female",
+			"location": "Chiba",
+			"residence": "Chiba",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 382,
+			"age": "60",
+			"gender": "Male",
+			"location": "Chiba",
+			"residence": "Chiba",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 383,
+			"age": "60",
+			"gender": "Female",
+			"location": "Chiba",
+			"residence": "Chiba",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 384,
+			"age": "20",
+			"gender": "Female",
+			"location": "Chiba",
+			"residence": "Chiba",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 385,
+			"age": "70",
+			"gender": "Male",
+			"location": "Fukushima",
+			"residence": "Fukushima",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 386,
+			"age": "50",
+			"gender": "Female",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 387,
+			"age": "70",
+			"gender": "Female",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 388,
+			"age": "50",
+			"gender": "Male",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 389,
+			"age": "50",
+			"gender": "Female",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 390,
+			"age": "70",
+			"gender": "Male",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 391,
+			"age": "40",
+			"gender": "Female",
+			"location": "Gunma",
+			"residence": "Gunma",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 392,
+			"age": "40",
+			"gender": "Male",
+			"location": "Nishinomiya",
+			"residence": "Hyogo",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 393,
+			"age": "80",
+			"gender": "Female",
+			"location": "Nishinomiya",
+			"residence": "Hyogo",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 394,
+			"age": "50",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 395,
+			"age": "20",
+			"gender": "Male",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 396,
+			"age": "50",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 397,
+			"age": "40",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 398,
+			"age": "40",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 399,
+			"age": "20",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 400,
+			"age": "60",
+			"gender": "Male",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 401,
+			"age": "20",
+			"gender": "Male",
+			"location": "Yamanashi",
+			"residence": "Yamanashi",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 402,
+			"age": "60",
+			"gender": "Female",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 403,
+			"age": "50",
+			"gender": "Male",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 404,
+			"age": "60",
+			"gender": "Male",
+			"location": "Nagoya",
+			"residence": "Aichi",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 405,
+			"age": "80",
+			"gender": "Male",
+			"location": "Nagoya",
+			"residence": "Aichi",
+			"date": "2020/3/7",
+			"status": "deceased",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10033.html"
+		},
+		{
+			"case_number": 406,
+			"age": "80",
+			"gender": "Male",
+			"location": "Nagoya",
+			"residence": "Aichi",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 407,
+			"age": "60",
+			"gender": "Female",
+			"location": "Nagoya",
+			"residence": "Aichi",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+		{
+			"case_number": 408,
+			"age": "70",
+			"gender": "Male",
+			"location": "Nagoya",
+			"residence": "Aichi",
+			"date": "2020/3/7",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10031.html"
+		},
+
+		{
+			"case_number": 409,
+			"age": "60",
+			"gender": "Male",
+			"location": "Hokkaido",
+			"residence": "Hokkaido",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 410,
+			"age": "70",
+			"gender": "Female",
+			"location": "Hokkaido",
+			"residence": "Hokkaido",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 411,
+			"age": "70",
+			"gender": "Male",
+			"location": "Asahikawa",
+			"residence": "Hokkaido",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 412,
+			"age": "50",
+			"gender": "Male",
+			"location": "Kochi City",
+			"residence": "Kochi",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 413,
+			"age": "60",
+			"gender": "Female",
+			"location": "Kochi City",
+			"residence": "Kochi",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 414,
+			"age": "50",
+			"gender": "Female",
+			"location": "Himeji City",
+			"residence": "Hyogo",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 415,
+			"age": "80",
+			"gender": "Male",
+			"location": "Hyogo",
+			"residence": "Hyogo",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 416,
+			"age": "40",
+			"gender": "Male",
+			"location": "Saitama",
+			"residence": "Saitama",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 417,
+			"age": "80",
+			"gender": "Male",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 418,
+			"age": "50",
+			"gender": "Male",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 419,
+			"age": "50",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 420,
+			"age": "60",
+			"gender": "Male",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 421,
+			"age": "20",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 422,
+			"age": "20",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 423,
+			"age": "20",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 424,
+			"age": "40",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 425,
+			"age": "60",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 426,
+			"age": "30",
+			"gender": "Male",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 427,
+			"age": "60",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 428,
+			"age": "20",
+			"gender": "Female",
+			"location": "Osaka",
+			"residence": "Osaka",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 429,
+			"age": "60",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 430,
+			"age": "50",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 431,
+			"age": "70",
+			"gender": "Male",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 432,
+			"age": "60",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 433,
+			"age": "80",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 434,
+			"age": "60",
+			"gender": "Male",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 435,
+			"age": "50",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 436,
+			"age": "50",
+			"gender": "Male",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 437,
+			"age": "90",
+			"gender": "Male",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": 438,
+			"age": "40",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/8",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10034.html"
+		},
+		{
+			"case_number": -1,
+			"age": "Undisclosed",
+			"gender": "Undisclosed",
+			"location": "Kanagawa",
+			"residence": "Kanagawa",
+			"date": "2020/3/8",
+			"status": "deceased",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000605976.pdf"
+		},
+		{
+			"case_number": 439,
+			"age": "30",
+			"gender": "Male",
+			"location": "Koriyama Health Center",
+			"residence": "Nara",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606011.pdf"
+		},
+		{
+			"case_number": 440,
+			"age": "50",
+			"gender": "Male",
+			"location": "Sapporo",
+			"residence": "Hokkaido",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606012.pdf"
+		},
+		{
+			"case_number": 441,
+			"age": "70",
+			"gender": "Female",
+			"location": "Sapporo",
+			"residence": "Hokkaido",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606012.pdf"
+		},
+		{
+			"case_number": 442,
+			"age": "50",
+			"gender": "Male",
+			"location": "Sapporo",
+			"residence": "Hokkaido",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606012.pdf"
+		},
+		{
+			"case_number": 443,
+			"age": "50",
+			"gender": "Female",
+			"location": "Sapporo",
+			"residence": "Hokkaido",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606012.pdf"
+		},
+		{
+			"case_number": 444,
+			"age": "50",
+			"gender": "Male",
+			"location": "Sapporo",
+			"residence": "Hokkaido",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606012.pdf"
+		},
+		{
+			"case_number": 445,
+			"age": "70",
+			"gender": "Male",
+			"location": "Hokkaido",
+			"residence": "Hokkaido",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606013.pdf"
+		},
+		{
+			"case_number": 446,
+			"age": "60",
+			"gender": "Female",
+			"location": "Hokkaido",
+			"residence": "Hokkaido",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606013.pdf"
+		},
+		{
+			"case_number": 447,
+			"age": "70",
+			"gender": "Male",
+			"location": "Ishikawa",
+			"residence": "Ishikawa",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606014.pdf"
+		},
+		{
+			"case_number": 448,
+			"age": "30",
+			"gender": "Female",
+			"location": "Kyoto City",
+			"residence": "Kyoto",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606015.pdf"
+		},
+		{
+			"case_number": 449,
+			"age": "40",
+			"gender": "Female",
+			"location": "Kobe City",
+			"residence": "Hyogo",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606017.pdf"
+		},
+		{
+			"case_number": 450,
+			"age": "50",
+			"gender": "Female",
+			"location": "Kobe City",
+			"residence": "Hyogo",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606018.doc"
+		},
+		{
+			"case_number": 451,
+			"age": "50",
+			"gender": "Female",
+			"location": "Niigata City",
+			"residence": "Niigata",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606019.pdf"
+		},
+		{
+			"case_number": 452,
+			"age": "40",
+			"gender": "Male",
+			"location": "Niigata City",
+			"residence": "Niigata",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606019.pdf"
+		},
+		{
+			"case_number": 453,
+			"age": "70",
+			"gender": "Male",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606022.pdf"
+		},
+		{
+			"case_number": 454,
+			"age": "80",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606022.pdf"
+		},
+		{
+			"case_number": 455,
+			"age": "70",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606022.pdf"
+		},
+		{
+			"case_number": 456,
+			"age": "90",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606022.pdf"
+		},
+		{
+			"case_number": 457,
+			"age": "40",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/9",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606022.pdf"
+		},
+		{
+			"case_number": 458,
+			"age": "30",
+			"gender": "Male",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606521.pdf"
+		},
+		{
+			"case_number": 459,
+			"age": "40",
+			"gender": "Male",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606521.pdf"
+		},
+		{
+			"case_number": 460,
+			"age": "20",
+			"gender": "Female",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606521.pdf"
+		},
+		{
+			"case_number": 461,
+			"age": "30",
+			"gender": "Male",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606521.pdf"
+		},
+		{
+			"case_number": 462,
+			"age": "30",
+			"gender": "Female",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606521.pdf"
+		},
+		{
+			"case_number": 463,
+			"age": "40",
+			"gender": "Female",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606521.pdf"
+		},
+		{
+			"case_number": 464,
+			"age": "20",
+			"gender": "Female",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606521.pdf"
+		},
+		{
+			"case_number": 465,
+			"age": "20",
+			"gender": "Male",
+			"location": "Higashiosaka City",
+			"residence": "Osaka",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606521.pdf"
+		},
+		{
+			"case_number": 466,
+			"age": "70",
+			"gender": "Male",
+			"location": "Toyonaka City",
+			"residence": "Osaka",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606521.pdf"
+		},
+		{
+			"case_number": 467,
+			"age": "50",
+			"gender": "Male",
+			"location": "Yao City",
+			"residence": "Osaka",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606521.pdf"
+		},
+		{
+			"case_number": 468,
+			"age": "40",
+			"gender": "Male",
+			"location": "Kaizuka City",
+			"residence": "Osaka",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606521.pdf"
+		},
+		{
+			"case_number": 469,
+			"age": "50",
+			"gender": "Male",
+			"location": "Hirakata City",
+			"residence": "Osaka",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606521.pdf"
+		},
+		{
+			"case_number": 470,
+			"age": "40",
+			"gender": "Female",
+			"location": "Takatsuki City",
+			"residence": "Osaka",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606521.pdf"
+		},
+		{
+			"case_number": 471,
+			"age": "70",
+			"gender": "Male",
+			"location": "Yao City",
+			"residence": "Osaka",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606521.pdf"
+		},
+		{
+			"case_number": 472,
+			"age": "50",
+			"gender": "Male",
+			"location": "Ibaraki City",
+			"residence": "Osaka",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606521.pdf"
+		},
+		{
+			"case_number": 473,
+			"age": "50",
+			"gender": "Male",
+			"location": "Iruma City",
+			"residence": "Saitama",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606711.pdf"
+		},
+		{
+			"case_number": 474,
+			"age": "50",
+			"gender": "Female",
+			"location": "Iruma City",
+			"residence": "Saitama",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606711.pdf"
+		},
+		{
+			"case_number": 475,
+			"age": "50",
+			"gender": "Male",
+			"location": "Shizuoka",
+			"residence": "Shizuoka",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606523.pdf"
+		},
+		{
+			"case_number": 476,
+			"age": "40",
+			"gender": "Male",
+			"location": "Owari district",
+			"residence": "Aichi",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606524.pdf"
+		},
+		{
+			"case_number": 477,
+			"age": "40",
+			"gender": "Female",
+			"location": "Owari district",
+			"residence": "Aichi",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606524.pdf"
+		},
+		{
+			"case_number": 478,
+			"age": "40",
+			"gender": "Male",
+			"location": "Owari district",
+			"residence": "Aichi",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606524.pdf"
+		},
+		{
+			"case_number": 479,
+			"age": "90",
+			"gender": "Male",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606828.pdf"
+		},
+		{
+			"case_number": 480,
+			"age": "60",
+			"gender": "Male",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606828.pdf"
+		},
+		{
+			"case_number": 481,
+			"age": "50",
+			"gender": "Female",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606828.pdf"
+		},
+		{
+			"case_number": 482,
+			"age": "80",
+			"gender": "Female",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606828.pdf"
+		},
+		{
+			"case_number": 483,
+			"age": "70",
+			"gender": "Male",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606828.pdf"
+		},
+		{
+			"case_number": 484,
+			"age": "80",
+			"gender": "Female",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606828.pdf"
+		},
+		{
+			"case_number": 485,
+			"age": "80",
+			"gender": "Female",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606828.pdf"
+		},
+		{
+			"case_number": 486,
+			"age": "60",
+			"gender": "Male",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606828.pdf"
+		},
+		{
+			"case_number": 487,
+			"age": "80",
+			"gender": "Male",
+			"location": "Aichi",
+			"residence": "Aichi",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606828.pdf"
+		},
+		{
+			"case_number": 488,
+			"age": "30",
+			"gender": "Female",
+			"location": "Iga Public Health Center jurisdiction",
+			"residence": "Mie",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606525.pdf"
+		},
+		{
+			"case_number": 489,
+			"age": "40",
+			"gender": "Male",
+			"location": "Nishinomiya city",
+			"residence": "Hyogo",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606526.pdf"
+		},
+		{
+			"case_number": 490,
+			"age": "50",
+			"gender": "Male",
+			"location": "Amagasaki city",
+			"residence": "Hyogo",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606527.pdf"
+		},
+		{
+			"case_number": 491,
+			"age": "80",
+			"gender": "Male",
+			"location": "Itami City",
+			"residence": "Hyogo",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606528.pdf"
+		},
+		{
+			"case_number": 492,
+			"age": "40",
+			"gender": "Female",
+			"location": "Himeji City",
+			"residence": "Hyogo",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606529.pdf"
+		},
+		{
+			"case_number": 493,
+			"age": "60",
+			"gender": "Male",
+			"location": "Hyogo",
+			"residence": "Hyogo",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606529.pdf"
+		},
+		{
+			"case_number": 494,
+			"age": "70",
+			"gender": "Male",
+			"location": "Itami City",
+			"residence": "Hyogo",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606530.pdf"
+		},
+		{
+			"case_number": 495,
+			"age": "70",
+			"gender": "Male",
+			"location": "Kobe City",
+			"residence": "Hyogo",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606530.pdf"
+		},
+		{
+			"case_number": 496,
+			"age": "80",
+			"gender": "Female",
+			"location": "Ichikawa City",
+			"residence": "Chiba",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606531.pdf"
+		},
+		{
+			"case_number": 497,
+			"age": "50",
+			"gender": "Male",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606532.pdf"
+		},
+		{
+			"case_number": 498,
+			"age": "70",
+			"gender": "Male",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606532.pdf"
+		},
+		{
+			"case_number": 499,
+			"age": "20",
+			"gender": "Female",
+			"location": "Kanagawa",
+			"residence": "Kanagawa",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606533.pdf"
+		},
+		{
+			"case_number": 500,
+			"age": "70",
+			"gender": "Female",
+			"location": "Kyoto",
+			"residence": "Kyoto",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606534.pdf"
+		},
+		{
+			"case_number": 501,
+			"age": "60",
+			"gender": "Female",
+			"location": "Sapporo",
+			"residence": "Hokkaido",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606536.pdf"
+		},
+		{
+			"case_number": 502,
+			"age": "60",
+			"gender": "Male",
+			"location": "Sapporo",
+			"residence": "Hokkaido",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606536.pdf"
+		},
+		{
+			"case_number": 503,
+			"age": "50",
+			"gender": "Male",
+			"location": "Sapporo",
+			"residence": "Hokkaido",
+			"date": "2020/3/10",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606536.pdf"
+		},
+		{
+			"case_number": -2,
+			"age": "Undisclosed",
+			"gender": "Undisclosed",
+			"location": "Nagoya",
+			"residence": "Aichi",
+			"date": "2020/3/10",
+			"status": "deceased",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606542.doc"
+		},
+		{
+			"case_number": -3,
+			"age": "Undisclosed",
+			"gender": "Undisclosed",
+			"location": "Nagoya",
+			"residence": "Aichi",
+			"date": "2020/3/10",
+			"status": "deceased",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606543.doc"
+        },
+        {
+			"case_number": -4,
+			"age": "80",
+			"gender": "Male",
+			"location": "Sagamihara",
+			"residence": "Kanagawa",
+			"date": "2020/3/10",
+			"status": "deceased",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000606544.docx"
+		},
+		{
+			"case_number": 504,
+			"age": "60",
+			"gender": "Male",
+			"location": "Niigata City",
+			"residence": "Niigata",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607073.pdf"
+		},
+		{
+			"case_number": 505,
+			"age": "30",
+			"gender": "Male",
+			"location": "Niigata City",
+			"residence": "Niigata",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607073.pdf"
+		},
+		{
+			"case_number": 506,
+			"age": "30",
+			"gender": "Male",
+			"location": "Niigata City",
+			"residence": "Niigata",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607073.pdf"
+		},
+		{
+			"case_number": 507,
+			"age": "60",
+			"gender": "Male",
+			"location": "Kawagoe City",
+			"residence": "Saitama",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607074.docx"
+		},
+		{
+			"case_number": 508,
+			"age": "60",
+			"gender": "Female",
+			"location": "Kawagoe City",
+			"residence": "Saitama",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607074.docx"
+		},
+		{
+			"case_number": 509,
+			"age": "30",
+			"gender": "Male",
+			"location": "Kawagoe City",
+			"residence": "Saitama",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607074.docx"
+		},
+		{
+			"case_number": 510,
+			"age": "70",
+			"gender": "Male",
+			"location": "Toda City",
+			"residence": "Saitama",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607075.pdf"
+		},
+		{
+			"case_number": 511,
+			"age": "50",
+			"gender": "Male",
+			"location": "Saitama City",
+			"residence": "Saitama",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607075.pdf"
+		},
+		{
+			"case_number": 512,
+			"age": "70",
+			"gender": "Male",
+			"location": "Matsudo City",
+			"residence": "Chiba",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607076.pdf"
+		},
+		{
+			"case_number": 513,
+			"age": "60",
+			"gender": "Female",
+			"location": "Matsudo City",
+			"residence": "Chiba",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607076.pdf"
+		},
+		{
+			"case_number": 514,
+			"age": "50",
+			"gender": "Female",
+			"location": "Sapporo City",
+			"residence": "Hokkaido",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607077.pdf"
+		},
+		{
+			"case_number": 515,
+			"age": "70",
+			"gender": "Female",
+			"location": "Sapporo City",
+			"residence": "Hokkaido",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607077.pdf"
+		},
+		{
+			"case_number": 516,
+			"age": "30",
+			"gender": "Male",
+			"location": "Sapporo City",
+			"residence": "Hokkaido",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607077.pdf"
+		},
+		{
+			"case_number": 517,
+			"age": "50",
+			"gender": "Female",
+			"location": "Sapporo City",
+			"residence": "Hokkaido",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607077.pdf"
+		},
+		{
+			"case_number": 518,
+			"age": "70",
+			"gender": "Female",
+			"location": "Sorachi District",
+			"residence": "Hokkaido",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607078.pdf"
+		},
+		{
+			"case_number": 519,
+			"age": "60",
+			"gender": "Male",
+			"location": "Hokkaido",
+			"residence": "Hokkaido",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607078.pdf"
+		},
+		{
+			"case_number": 520,
+			"age": "60",
+			"gender": "Female",
+			"location": "Asahikawa City",
+			"residence": "Hokkaido",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607079.pdf"
+		},
+		{
+			"case_number": 521,
+			"age": "50",
+			"gender": "Female",
+			"location": "Kyoto City",
+			"residence": "Kyoto",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607080.pdf"
+		},
+		{
+			"case_number": 522,
+			"age": "Under 10",
+			"gender": "Undisclosed",
+			"location": "Kyoto City",
+			"residence": "Kyoto",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607081.pdf"
+		},
+		{
+			"case_number": 523,
+			"age": "40",
+			"gender": "Female",
+			"location": "Fujisawa City",
+			"residence": "Kanagawa",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607082.pdf"
+		},
+		{
+			"case_number": 524,
+			"age": "20",
+			"gender": "Female",
+			"location": "Fujisawa City",
+			"residence": "Kanagawa",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607082.pdf"
+		},
+		{
+			"case_number": 525,
+			"age": "40",
+			"gender": "Female",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607083.pdf"
+		},
+		{
+			"case_number": 526,
+			"age": "20",
+			"gender": "Female",
+			"location": "Toyonaka City",
+			"residence": "Osaka",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607083.pdf"
+		},
+		{
+			"case_number": 527,
+			"age": "20",
+			"gender": "Female",
+			"location": "Toyonaka City",
+			"residence": "Osaka",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607083.pdf"
+		},
+		{
+			"case_number": 528,
+			"age": "80",
+			"gender": "Male",
+			"location": "Ikeda City",
+			"residence": "Osaka",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607083.pdf"
+		},
+		{
+			"case_number": 529,
+			"age": "50",
+			"gender": "Male",
+			"location": "Suita City",
+			"residence": "Osaka",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607083.pdf"
+		},
+		{
+			"case_number": 530,
+			"age": "40",
+			"gender": "Female",
+			"location": "Nara City",
+			"residence": "Hyogo",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607084.pdf"
+		},
+		{
+			"case_number": 531,
+			"age": "30",
+			"gender": "Female",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607085.pdf"
+		},
+		{
+			"case_number": 532,
+			"age": "80",
+			"gender": "Female",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607085.pdf"
+		},
+		{
+			"case_number": 533,
+			"age": "40",
+			"gender": "Male",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607085.pdf"
+		},
+		{
+			"case_number": 534,
+			"age": "50",
+			"gender": "Male",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607085.pdf"
+		},
+		{
+			"case_number": 535,
+			"age": "50",
+			"gender": "Female",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607085.pdf"
+		},
+		{
+			"case_number": 536,
+			"age": "60",
+			"gender": "Male",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607085.pdf"
+		},
+		{
+			"case_number": 537,
+			"age": "60",
+			"gender": "Female",
+			"location": "Kobe City",
+			"residence": "Hyogo",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607086.pdf"
+		},
+		{
+			"case_number": 538,
+			"age": "30",
+			"gender": "Female",
+			"location": "Kobe City",
+			"residence": "Hyogo",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607086.pdf"
+		},
+		{
+			"case_number": 539,
+			"age": "20",
+			"gender": "Female",
+			"location": "Kobe City",
+			"residence": "Hyogo",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607086.pdf"
+		},
+		{
+			"case_number": 540,
+			"age": "50",
+			"gender": "Female",
+			"location": "Kobe City",
+			"residence": "Hyogo",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607086.pdf"
+		},
+		{
+			"case_number": 541,
+			"age": "70",
+			"gender": "Male",
+			"location": "Hyogo",
+			"residence": "Hyogo",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607088.pdf"
+		},
+		{
+			"case_number": 542,
+			"age": "40",
+			"gender": "Female",
+			"location": "Amagasaki City",
+			"residence": "Hyogo",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607088.pdf"
+		},
+		{
+			"case_number": 543,
+			"age": "80",
+			"gender": "Male",
+			"location": "Hyogo",
+			"residence": "Hyogo",
+			"date": "2020/3/11",
+			"status": "deceased",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607088.pdf"
+		},
+		{
+			"case_number": 544,
+			"age": "70",
+			"gender": "Male",
+			"location": "Hyogo",
+			"residence": "Hyogo",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607089.pdf"
+		},
+		{
+			"case_number": 545,
+			"age": "40",
+			"gender": "Female",
+			"location": "Hyogo",
+			"residence": "Hyogo",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607089.pdf"
+		},
+		{
+			"case_number": 546,
+			"age": "20",
+			"gender": "Female",
+			"location": "Hyogo",
+			"residence": "Hyogo",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607089.pdf"
+		},
+		{
+			"case_number": 547,
+			"age": "60",
+			"gender": "Male",
+			"location": "Hyogo",
+			"residence": "Hyogo",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607089.pdf"
+		},
+		{
+			"case_number": 548,
+			"age": "50",
+			"gender": "Male",
+			"location": "Hyogo",
+			"residence": "Hyogo",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607089.pdf"
+		},
+		{
+			"case_number": 549,
+			"age": "50",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607090.doc"
+		},
+		{
+			"case_number": 550,
+			"age": "30",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607090.doc"
+		},
+		{
+			"case_number": 551,
+			"age": "80",
+			"gender": "Male",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607090.doc"
+		},
+		{
+			"case_number": 552,
+			"age": "70",
+			"gender": "Female",
+			"location": "Okazaki City",
+			"residence": "Aichi",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607091.pdf"
+		},
+		{
+			"case_number": 553,
+			"age": "50",
+			"gender": "Male",
+			"location": "Okazaki City",
+			"residence": "Aichi",
+			"date": "2020/3/11",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607091.pdf"
+		},
+		{
+			"case_number": -5,
+			"age": "80",
+			"gender": "Male",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/11",
+			"status": "deceased",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607092.doc"
+		},
+		{
+			"case_number": -6,
+			"age": "80",
+			"gender": "Male",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/11",
+			"status": "deceased",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607093.doc"
+        },
+        {
+			"case_number": 554,
+			"age": "70",
+			"gender": "Female",
+			"location": "Himeji City",
+			"residence": "Hyogo",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607866.pdf"
+		},
+		{
+			"case_number": 555,
+			"age": "60",
+			"gender": "Male",
+			"location": "Mastudo City",
+			"residence": "Chiba",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607867.pdf"
+		},
+		{
+			"case_number": 556,
+			"age": "50",
+			"gender": "Female",
+			"location": "Ichikawa City",
+			"residence": "Chiba",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607867.pdf"
+		},
+		{
+			"case_number": 557,
+			"age": "50",
+			"gender": "Male",
+			"location": "Otaru City",
+			"residence": "Hokkaido",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607868.pdf"
+		},
+		{
+			"case_number": 558,
+			"age": "60",
+			"gender": "Male",
+			"location": "Sapporo City",
+			"residence": "Hokkaido",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607869.pdf"
+		},
+		{
+			"case_number": 559,
+			"age": "20",
+			"gender": "Female",
+			"location": "Sapporo City",
+			"residence": "Hokkaido",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607869.pdf"
+		},
+		{
+			"case_number": 560,
+			"age": "80",
+			"gender": "Male",
+			"location": "Sapporo City",
+			"residence": "Hokkaido",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607869.pdf"
+		},
+		{
+			"case_number": 561,
+			"age": "70",
+			"gender": "Female",
+			"location": "Sapporo City",
+			"residence": "Hokkaido",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607869.pdf"
+		},
+		{
+			"case_number": 562,
+			"age": "Undisclosed",
+			"gender": "Female",
+			"location": "Sapporo City",
+			"residence": "Hokkaido",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607869.pdf"
+		},
+		{
+			"case_number": 563,
+			"age": "70",
+			"gender": "Male",
+			"location": "Sapporo City",
+			"residence": "Hokkaido",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607869.pdf"
+		},
+		{
+			"case_number": 564,
+			"age": "50",
+			"gender": "Female",
+			"location": "Sapporo City",
+			"residence": "Hokkaido",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607869.pdf"
+		},
+		{
+			"case_number": 565,
+			"age": "70",
+			"gender": "Female",
+			"location": "Sapporo City",
+			"residence": "Hokkaido",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607869.pdf"
+		},
+		{
+			"case_number": 566,
+			"age": "80",
+			"gender": "Male",
+			"location": "Sapporo City",
+			"residence": "Hokkaido",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607869.pdf"
+		},
+		{
+			"case_number": 567,
+			"age": "60",
+			"gender": "Female",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607870.pdf"
+		},
+		{
+			"case_number": 568,
+			"age": "70",
+			"gender": "Female",
+			"location": "Tokyo",
+			"residence": "Tokyo",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607870.pdf"
+		},
+		{
+			"case_number": 569,
+			"age": "30",
+			"gender": "Male",
+			"location": "Mie",
+			"residence": "Mie",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607871.pdf"
+		},
+		{
+			"case_number": 570,
+			"age": "Under 10",
+			"gender": "Male",
+			"location": "Mie",
+			"residence": "Mie",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607871.pdf"
+		},
+		{
+			"case_number": 571,
+			"age": "70",
+			"gender": "Male",
+			"location": "Hyogo",
+			"residence": "Hyogo",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607872.docx"
+		},
+		{
+			"case_number": 572,
+			"age": "90",
+			"gender": "Female",
+			"location": "Hyogo",
+			"residence": "Hyogo",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607872.docx"
+		},
+		{
+			"case_number": 573,
+			"age": "50",
+			"gender": "Female",
+			"location": "Hyogo",
+			"residence": "Hyogo",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607872.docx"
+		},
+		{
+			"case_number": 574,
+			"age": "50",
+			"gender": "Female",
+			"location": "Hyogo",
+			"residence": "Hyogo",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607872.docx"
+		},
+		{
+			"case_number": 575,
+			"age": "20",
+			"gender": "Female",
+			"location": "Saitama",
+			"residence": "Saitama",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607873.pdf"
+		},
+		{
+			"case_number": 576,
+			"age": "50",
+			"gender": "Female",
+			"location": "Saitama",
+			"residence": "Saitama",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607873.pdf"
+		},
+		{
+			"case_number": 577,
+			"age": "40",
+			"gender": "Male",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607874.pdf"
+		},
+		{
+			"case_number": 578,
+			"age": "30",
+			"gender": "Female",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607874.pdf"
+		},
+		{
+			"case_number": 579,
+			"age": "40",
+			"gender": "Male",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607874.pdf"
+		},
+		{
+			"case_number": 580,
+			"age": "50",
+			"gender": "Male",
+			"location": "Osaka City",
+			"residence": "Osaka",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607874.pdf"
+		},
+		{
+			"case_number": 581,
+			"age": "70",
+			"gender": "Female",
+			"location": "Yao City",
+			"residence": "Osaka",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607874.pdf"
+		},
+		{
+			"case_number": 582,
+			"age": "70",
+			"gender": "Male",
+			"location": "Yao City",
+			"residence": "Osaka",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607874.pdf"
+		},
+		{
+			"case_number": 583,
+			"age": "30",
+			"gender": "Male",
+			"location": "Izumi City",
+			"residence": "Osaka",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607874.pdf"
+		},
+		{
+			"case_number": 584,
+			"age": "20",
+			"gender": "Female",
+			"location": "Izumi City",
+			"residence": "Osaka",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607874.pdf"
+		},
+		{
+			"case_number": 585,
+			"age": "40",
+			"gender": "Male",
+			"location": "Suita City",
+			"residence": "Osaka",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607874.pdf"
+		},
+		{
+			"case_number": 586,
+			"age": "60",
+			"gender": "Male",
+			"location": "Kyoto",
+			"residence": "Kyoto",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607875.pdf"
+		},
+		{
+			"case_number": 587,
+			"age": "Undisclosed",
+			"gender": "Undisclosed",
+			"location": "Kyoto City",
+			"residence": "Kyoto",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607876.pdf"
+		},
+		{
+			"case_number": 588,
+			"age": "30",
+			"gender": "Female",
+			"location": "Aichi City",
+			"residence": "Aichi",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607877.pdf"
+		},
+		{
+			"case_number": 589,
+			"age": "30",
+			"gender": "Male",
+			"location": "Aichi City",
+			"residence": "Aichi",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607877.pdf"
+		},
+		{
+			"case_number": 590,
+			"age": "60",
+			"gender": "Male",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607878.doc"
+		},
+		{
+			"case_number": 591,
+			"age": "50",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607878.doc"
+		},
+		{
+			"case_number": 592,
+			"age": "80",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607878.doc"
+		},
+		{
+			"case_number": 593,
+			"age": "80",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607878.doc"
+		},
+		{
+			"case_number": 594,
+			"age": "70",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607878.doc"
+		},
+		{
+			"case_number": 595,
+			"age": "60",
+			"gender": "Female",
+			"location": "Saitama",
+			"residence": "Saitama",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607879.pdf"
+		},
+		{
+			"case_number": 596,
+			"age": "70",
+			"gender": "Female",
+			"location": "Saitama",
+			"residence": "Saitama",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607879.pdf"
+		},
+		{
+			"case_number": 597,
+			"age": "30",
+			"gender": "Male",
+			"location": "Saitama",
+			"residence": "Saitama",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607879.pdf"
+		},
+		{
+			"case_number": 598,
+			"age": "70",
+			"gender": "Female",
+			"location": "Saitama",
+			"residence": "Saitama",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607879.pdf"
+		},
+		{
+			"case_number": 599,
+			"age": "30",
+			"gender": "Female",
+			"location": "Niigata City",
+			"residence": "Niigata",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607880.pdf"
+		},
+		{
+			"case_number": 600,
+			"age": "Under 10",
+			"gender": "Male",
+			"location": "Niigata City",
+			"residence": "Niigata",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607880.pdf"
+		},
+		{
+			"case_number": 601,
+			"age": "30",
+			"gender": "Female",
+			"location": "Niigata City",
+			"residence": "Niigata",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607880.pdf"
+		},
+		{
+			"case_number": 602,
+			"age": "60",
+			"gender": "Female",
+			"location": "Shizuoka",
+			"residence": "Shizuoka",
+			"date": "2020/3/12",
+			"status": "alive",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607881.pdf"
+		},
+		{
+			"case_number": -7,
+			"age": "70",
+			"gender": "Male",
+			"location": "Sapporo City",
+			"residence": "Hokkaido",
+			"date": "2020/3/12",
+			"status": "deceased",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607882.pdf"
+		},
+		{
+			"case_number": -8,
+			"age": "80",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/12",
+			"status": "deceased",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607883.doc"
+		},
+		{
+			"case_number": -9,
+			"age": "70",
+			"gender": "Female",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/12",
+			"status": "deceased",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/content/10906000/000607884.doc"
+		},
+		{
+			"case_number": -10,
+			"age": "Undisclosed",
+			"gender": "Undisclosed",
+			"location": "Nagoya City",
+			"residence": "Aichi",
+			"date": "2020/3/12",
+			"status": "deceased",
+			"contact": [
+				"investigating"
+			],
+			"charter": false,
+			"source": "https://www.mhlw.go.jp/stf/newpage_10173.html"
+		}
+	]
+}
